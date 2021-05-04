@@ -1,4 +1,7 @@
 # dublicateEncoder
+
+
+
 function duplicateEncode(word) {
             const new_word = word.toUpperCase();
             let newString1 = [];
